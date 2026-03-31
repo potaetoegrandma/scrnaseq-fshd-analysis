@@ -33,7 +33,7 @@ Facioscapulohumeral muscular dystrophy (FSHD) is caused by aberrant expression o
 | DUX4 cell ratio | 1 in 248 | 1 in 217 |
 | DUX4 cells in Control | 0 | 0 |
 
-All 28 DUX4-affected cells were found exclusively in FSHD samples — zero in controls — independently replicating the paper's central finding.
+All 28 DUX4-affected cells were found exclusively in FSHD samples - zero in controls - independently trying to replicate the paper's central finding.
 
 ---
 
@@ -112,7 +112,7 @@ pip install scanpy harmonypy gseapy celltypist geoparse mygene \
 
 1. Clone this repository
 ```bash
-git clone https://github.com/[your-username]/scrnaseq-fshd-analysis.git
+git clone https://github.com/potaetoegrandma/scrnaseq-fshd-analysis.git
 cd scrnaseq-fshd-analysis
 ```
 
@@ -134,8 +134,8 @@ scrnaseq-fshd-analysis/
 │
 ├── fshd_analysis_final.ipynb    # Main analysis notebook
 ├── README.md                    # This file
-├── figures/                     # All generated plots (19 figures)
-└── results/                     # Saved AnnData object (.h5ad)
+└──  figures/                     # All generated plots (19 figures)
+
 ```
 
 ---
